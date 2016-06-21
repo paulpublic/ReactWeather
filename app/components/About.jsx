@@ -3,8 +3,8 @@ var React = require('react');
 var About = (props) => {
   return (
     <div>
-      <h2>About</h2>
-      <p>About paragraph</p>
+      <h1 className="text-center">About</h1>
+      <p>Nothing to see here. Move along</p>
     </div>
   );
 };
